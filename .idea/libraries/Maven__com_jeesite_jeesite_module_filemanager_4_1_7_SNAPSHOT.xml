@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jeesite:jeesite-module-filemanager:4.1.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/repository/com/jeesite/jeesite-module-filemanager/4.1.7-SNAPSHOT/jeesite-module-filemanager-4.1.7-20191216.123858-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/repository/com/jeesite/jeesite-module-filemanager/4.1.7-SNAPSHOT/jeesite-module-filemanager-4.1.7-20191216.123858-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/repository/com/jeesite/jeesite-module-filemanager/4.1.7-SNAPSHOT/jeesite-module-filemanager-4.1.7-20191216.123858-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
